@@ -7,6 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "newgrounds"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
