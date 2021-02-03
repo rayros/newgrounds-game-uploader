@@ -78,10 +78,10 @@ if (!gameZipPath) {
     page.click('text="Publish Game?"'),
   ]);
 
-  // // Close page
+  // Close page
   await page.close();
 
-  // // ---------------------
+  // ---------------------
   await context.close();
   await browser.close();
 })().catch((error) => {
